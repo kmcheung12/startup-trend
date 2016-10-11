@@ -4,6 +4,7 @@ A quick overview of what startups do over the world. Data obtained by scraping [
 Output is in trend.csv
 
 To run:
+
 1. clone this project
 2. virtualenv .
 3. source bin/activate
